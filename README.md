@@ -4,12 +4,12 @@
 ![GitHub followers](https://img.shields.io/github/followers/mudityadev?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=mudityadev&color=blue">  
 
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://github.com/mudityadev/mudityadev/blob/master/Screenshot%20(36).png)
+![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://github.com/mudityadev/mudityadev/blob/master/Screenshot%20(36).png | width=200)
 
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-<img alt="Coding" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" align="right" width="200" height="400" />
+<img alt="Coding" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" align="right" width="290" height="200" />
 
 🎓 &nbsp;I'm currently studying Information Technology Engineering at Gyan Ganga Institute of Technology and Sciences, Jabalpur.\
 💡 &nbsp;Used technologies I enjoy working with include Django, OpenCV and Machine learning. Currently exploring Dart/Flutter.\
