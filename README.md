@@ -18,7 +18,7 @@
 
 
 
-## Find me around the web 🌎 <a href="https://www.linkedin.com/in/muditya/"><img align="left" width="150" height="146" src="https://giphy.com/gifs/Giflytics-MT5UUV1d4CXE2A37Dg"></a>
+## Find me around the web 🌎 <a href="https://www.linkedin.com/in/muditya/"><img align="left" width="150" height="146" src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif"></a>
 - Struggling on <a href="https://www.leetcode.com/mudityadev/">LeetCode</a> 😍
 - Working Hard on <a href="https://www.codeforces.com/profile/mudityadev/">Codeforces</a> 🙃
 - Sharing updates on <a href="https://www.linkedin.com/in/muditya/">LinkedIn</a> 😎
