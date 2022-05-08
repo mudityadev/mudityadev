@@ -9,7 +9,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-<img alt="Coding" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" align="right"/>
+<img alt="Coding" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" align="right" width="200" height="400" />
 
 🎓 &nbsp;I'm currently studying Information Technology Engineering at Gyan Ganga Institute of Technology and Sciences, Jabalpur.\
 💡 &nbsp;Used technologies I enjoy working with include Django, OpenCV and Machine learning. Currently exploring Dart/Flutter.\
