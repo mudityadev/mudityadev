@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/mudityadev?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=mudityadev&color=blue">  
 
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://github.com/mudityadev/mudityadev/blob/master/Screenshot%20(36).png | width=200)
+![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://github.com/mudityadev/mudityadev/blob/master/Screenshot%20(36).png = 200*400)
 
 
 ## 👨🏻‍💻 &nbsp;About Me
