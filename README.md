@@ -9,7 +9,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-<img alt="Coding" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gift" align="right"/>
+<img alt="Coding" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" align="right"/>
 
 🎓 &nbsp;I'm currently studying Information Technology Engineering at Gyan Ganga Institute of Technology and Sciences, Jabalpur.\
 💡 &nbsp;Used technologies I enjoy working with include Django, OpenCV and Machine learning. Currently exploring Dart/Flutter.\
